@@ -1,0 +1,17 @@
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.Form1.resources
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.Properties.Resources.resources
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.csproj.GenerateResource.cache
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\MHWIBDamageCalcWithDatabase.exe.config
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\MHWIBDamageCalcWithDatabase.exe
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\MHWIBDamageCalcWithDatabase.pdb
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\MySql.Data.dll
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\Google.Protobuf.dll
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\Renci.SshNet.dll
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\bin\Debug\MySql.Data.xml
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.csproj.CopyComplete
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.exe
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.pdb
+C:\Users\81908\Source\Repos\MHWIBDamageCalcWithDatabase\MHWIBDamageCalcWithDatabase\obj\Debug\MHWIBDamageCalcWithDatabase.csprojAssemblyReference.cache
